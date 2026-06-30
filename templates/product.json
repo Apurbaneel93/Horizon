@@ -12,13 +12,12 @@
     "main": {
       "type": "product-information",
       "blocks": {
-        "test_booking_app_appointment_booking_hXT8gN": {
-          "type": "shopify://apps/test-booking-app/blocks/appointment-booking/019f1883-f4f3-76b3-8954-83dd16c593bf",
+        "test_booking_app_appointment_booking_4EKFNq": {
+          "type": "shopify://apps/test-booking-app/blocks/appointment-booking/019f1894-a884-7e61-b7dd-6397fa162de8",
           "settings": {
             "button_text": "Book Appointment",
             "checkout_button_text": "Continue to checkout",
-            "bookable_tag": "appointment",
-            "time_slots": "09:00 AM, 09:30 AM, 10:00 AM, 10:30 AM, 11:00 AM, 11:30 AM"
+            "bookable_tag": "appointment"
           }
         },
         "disclosures_g9mWze": {
@@ -322,7 +321,7 @@
         }
       },
       "block_order": [
-        "test_booking_app_appointment_booking_hXT8gN",
+        "test_booking_app_appointment_booking_4EKFNq",
         "disclosures_g9mWze"
       ],
       "settings": {
