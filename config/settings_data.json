@@ -104,8 +104,8 @@
     "variant_button_width": "equal-width-buttons",
     "content_for_index": [],
     "blocks": {
-      "648378486533727485": {
-        "type": "shopify://apps/test-booking-app/blocks/appointment-booking-embed/019f1883-f4f3-76b3-8954-83dd16c593bf",
+      "14797944409711564164": {
+        "type": "shopify://apps/test-booking-app/blocks/appointment-booking-embed/019f1894-a884-7e61-b7dd-6397fa162de8",
         "disabled": false,
         "settings": {}
       }
