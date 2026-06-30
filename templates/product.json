@@ -6,11 +6,21 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */{
+ */
+{
   "sections": {
     "main": {
       "type": "product-information",
       "blocks": {
+        "test_booking_app_appointment_booking_hXT8gN": {
+          "type": "shopify://apps/test-booking-app/blocks/appointment-booking/019f1883-f4f3-76b3-8954-83dd16c593bf",
+          "settings": {
+            "button_text": "Book Appointment",
+            "checkout_button_text": "Continue to checkout",
+            "bookable_tag": "appointment",
+            "time_slots": "09:00 AM, 09:30 AM, 10:00 AM, 10:30 AM, 11:00 AM, 11:30 AM"
+          }
+        },
         "disclosures_g9mWze": {
           "type": "disclosures",
           "name": "t:names.disclosures",
@@ -117,6 +127,7 @@
                 "border_opacity": 100,
                 "border_color": "",
                 "border_radius": 0,
+                "link": "",
                 "open_in_new_tab": false,
                 "placeholder": "",
                 "padding-block-start": 0,
@@ -311,6 +322,7 @@
         }
       },
       "block_order": [
+        "test_booking_app_appointment_booking_hXT8gN",
         "disclosures_g9mWze"
       ],
       "settings": {
